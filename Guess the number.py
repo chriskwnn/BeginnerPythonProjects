@@ -1,4 +1,3 @@
-#GITHUB TEST Delete me
 """Create a function that generates a random number between
 1 and x. User guesses the number and stops when they guess the right one. """
 import random
